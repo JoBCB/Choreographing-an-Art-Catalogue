@@ -60,7 +60,8 @@ __[17h30-18h] group presentations and discussion__
 
 __Further Resources:__
 
-* [Open-Technologies-and-Design](https://github.com/JoBCB/Rehearsal_Series/wiki/Resources-and-Theory-on-Open-Technology-and-Design)
+* [on-Choreographic-Coding](https://github.com/JoBCB/Rehearsal_Series/wiki/References-on-Choreographic-Coding)
+* [on-Open-Technologies-and-Design](https://github.com/JoBCB/Rehearsal_Series/wiki/Resources-and-Theory-on-Open-Technology-and-Design)
 
 
 ### Further References
