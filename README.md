@@ -52,19 +52,12 @@ __[15h45-16h30] in groups:__
 
 __[16h30-17h30] prototyping:__
   - create a catalogue: 
-					- what are the spatio-temporal conditions?
-						- which location or environment;
-						- length of time;
-					- you can define a set of operations to be performed / qualitative-processual dynamics of howness:
-						- different rhythms (tempo; de/acceleration,..)
-						- repetitive;
-						- simultaneous; relational; viral; unpredictable…;
-					- how do you navigate around it?
-						- (non)linearity; random sequence;
-						- by order of..;
-						- zooming in diverse scales; from different angles..;
-					- you can enact the catalogue through actual physical movement; and or experiment by using digital tools and computer code.
-					- variations: you can define variations within your catalogue system;
+	- what are the spatio-temporal conditions? Which location or environment and time lengths?
+	- define a set of operations to be performed / qualitative-processual dynamics of howness:
+		- different rhythms (tempo; de/acceleration..); repetition; simultanity; relationality; unpredictability…;
+		- how do you navigate around it? by order of..; (non)linearity; random sequence; zooming in diverse scales; from different angles..;
+	- you can enact the catalogue through actual physical movement; and or experiment by using digital tools and computer code.
+	- set variations: you can define variations within your catalogue system;
           
 __[17h30-18h] group presentations and discussion__ 
 
