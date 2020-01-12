@@ -9,13 +9,6 @@ The outcome of the workshop is a prototype of a new catalogue for the current ex
 
 The participants are invited to bring their own laptops, and engage with hybrid analogue and digital tools, privileging open source and libre software.
 
------------------
-
-### Workshop Genealogy
-
-* [Exhibition Library @Monoskope](https://monoskop.org/Exhibition_Library#Joana_Chicau)
-* [Monoskop_XL_Seoul](https://monoskop.org/images/2/2f/Monoskop_XL_Seoul_2018.pdf)
-* [Ideographies_of_Knowledge](https://monoskop.org/Ideographies_of_Knowledge)
 
 -----------------
 
@@ -65,7 +58,7 @@ __[17h30-18h] group presentations and discussion__
 
 -----------------
 
-__Resources":__
+__Further Resources:__
 
 * [Open-Technologies-and-Design](https://github.com/JoBCB/Rehearsal_Series/wiki/Resources-and-Theory-on-Open-Technology-and-Design)
 
@@ -84,4 +77,11 @@ __Resources":__
 
 "The body is an arrangement in spacetime, a patterning, a process; the mind is a process of the body, an organ, doing what organs do: organize. Order, pattern, connect... an immensely flexible technology, or life strategy, which if used with skill and resourcefulness presents each of us with that most fascinating of all serials, The Story of My Life." — _Ursula K. Le Guin, Dancing at the Edge of the World: Thoughts on Words, Women, Places_
 
----------------------------------------------------
+-----------------
+
+
+### Workshop Genealogy
+
+* [Exhibition Library @Monoskope](https://monoskop.org/Exhibition_Library#Joana_Chicau)
+* [Monoskop_XL_Seoul](https://monoskop.org/images/2/2f/Monoskop_XL_Seoul_2018.pdf)
+* [Ideographies_of_Knowledge](https://monoskop.org/Ideographies_of_Knowledge)
