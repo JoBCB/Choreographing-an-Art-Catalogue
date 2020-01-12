@@ -11,7 +11,7 @@ The participants are invited to bring their own laptops, and engage with hybrid 
 
 -----------------
 
-__Workshop Genealogy__
+### Workshop Genealogy
 
 * [Exhibition Library @Monoskope](https://monoskop.org/Exhibition_Library#Joana_Chicau)
 * [Monoskop_XL_Seoul](https://monoskop.org/images/2/2f/Monoskop_XL_Seoul_2018.pdf)
@@ -19,27 +19,65 @@ __Workshop Genealogy__
 
 -----------------
 
-__On method__ = Drawing on practices of notation (making of scores and scripts) interweaved with somatic practices (embodiment and sensory perception) — which will inform archiving practices (gestures of searching, collecting; structuring, publishing and archiving content);
+### = "writing movement"  
+
+_choreography in Greek is spelled χορογραφια from χορός (dance) + γραφια (writing)_
+
+* [Post Modern Scores & Programming Scripts](http://pzwart1.wdka.hro.nl/~jo/notebook/series/glossary.html)
+* [Eshkol-Wachman Movement Notation & Cybernetics](https://joanachicau.x-temporary.org/)
+* [Choreographic-Coding Resources](https://github.com/JoBCB/Rehearsal_Series/wiki/References-on-Choreographic-Coding)
 
 > Choreographies are socio-cultural constructions, critics to current systems, political positions or dispositions, alternatives to move or counter-move. Each epoch, each place, each culture, each instance of choreography resists and reform previous conceptions of its definition.
 
 > As in choreography, computer programming deals with space, time and movement constructs. It has been defining ways of moving collectively or individually, through fluid nonetheless complex landscapes of information displays, networked spaces, and multi-media environments. — [Joana Chicau, Choreo-graphic-hypothesis publication](https://monoskop.org/images/7/70/Choreo-graphic-hypothesis-web-joana-chicau.pdf)
 
 
-__On the "writing of movement(s)":__
+__On method__ = Drawing on practices of notation (making of scores and scripts) interweaved with somatic practices (embodiment and sensory perception) — which will inform archiving practices (gestures of searching, collecting; structuring, publishing and archiving content);
 
-* [Post Modern Scores & Programming Scripts](http://pzwart1.wdka.hro.nl/~jo/notebook/series/glossary.html)
-* [Eshkol-Wachman Movement Notation & Cybernetics](https://joanachicau.x-temporary.org/)
-* [Choreographic-Coding Resources](https://github.com/JoBCB/Rehearsal_Series/wiki/References-on-Choreographic-Coding)
 
-__More tools and resources":__
+__[14h-14h45] round of introductions;__
+  - presentation of research; methodology; choreography and body themes;
+  - examples and analysis of movement scores & programming scripts = ‘writing spaces’;
+  - genealogy of the workshop and context;
+
+__[14h45-15h15] embodiment exercises;__
+
+__[] short break;__
+
+__[15h45-16h30] in groups:__
+  - reflect on the embodiment experience and choreographic concepts previously experienced;
+  - choose a choreographic viewpoint; describe in one sentence or make a list of key points;
+  - visit the exhibition; and collect images / metadata..; what does your catalogue material consist of?
+
+
+__[16h30-17h30] prototyping:__
+  - create a catalogue: 
+					- what are the spatio-temporal conditions?
+						- which location or environment;
+						- length of time;
+					- you can define a set of operations to be performed / qualitative-processual dynamics of howness:
+						- different rhythms (tempo; de/acceleration,..)
+						- repetitive;
+						- simultaneous; relational; viral; unpredictable…;
+					- how do you navigate around it?
+						- (non)linearity; random sequence;
+						- by order of..;
+						- zooming in diverse scales; from different angles..;
+					- you can enact the catalogue through actual physical movement; and or experiment by using digital tools and computer code.
+					- variations: you can define variations within your catalogue system;
+          
+__[17h30-18h] group presentations and discussion__ 
+
+  - critical reflections on the methodology, use of tools and collaborate work; 
+
+-----------------
+
+__Resources":__
 
 * [Open-Technologies-and-Design](https://github.com/JoBCB/Rehearsal_Series/wiki/Resources-and-Theory-on-Open-Technology-and-Design)
 
 
------------------
-
-__Further References__
+### Further References
 
 “What strategies might archivists consider to expand contextual knowledge about historical matters that might constrain records and bodies of knowledge over time? (...) Projecting the ideas of the fractured subject into the archive, Jacques Derrida wrestles with the changing nature of the archive by looking at what constitutes the driving principle of gathering together: "Consignation (in the archive) aims to coordinate a single corpus, in a system or a synchrony in which all the elements articulate the unity of an ideal configuration. In an archive, there should not be any absolute dissociations, any heterogeneity or secret, which could separate, or partition, in an absolute manner." _Jacques Derrida, Archive Fever: A Freudian Impression (Chicago: University of Chicago Press, 1995)_
 
