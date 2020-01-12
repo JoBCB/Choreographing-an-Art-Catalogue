@@ -13,11 +13,9 @@ The participants are invited to bring their own laptops, and engage with hybrid 
 
 __Workshop Genealogy__
 
-[Exhibition Library @Monoskope](https://monoskop.org/Exhibition_Library#Joana_Chicau)
-
-[Monoskop_XL_Seoul](https://monoskop.org/images/2/2f/Monoskop_XL_Seoul_2018.pdf)
-
-[Ideographies_of_Knowledge](https://monoskop.org/Ideographies_of_Knowledge)
+* [Exhibition Library @Monoskope](https://monoskop.org/Exhibition_Library#Joana_Chicau)
+* [Monoskop_XL_Seoul](https://monoskop.org/images/2/2f/Monoskop_XL_Seoul_2018.pdf)
+* [Ideographies_of_Knowledge](https://monoskop.org/Ideographies_of_Knowledge)
 
 -----------------
 
@@ -25,16 +23,16 @@ __On method__ = Drawing on practices of notation (making of scores and scripts) 
 
 > Choreographies are socio-cultural constructions, critics to current systems, political positions or dispositions, alternatives to move or counter-move. Each epoch, each place, each culture, each instance of choreography resists and reform previous conceptions of its definition.
 
-> As in choreography, computer programming deals with space, time and movement constructs. It has been defining ways of moving collectively or individually, through fluid nonetheless complex landscapes of information displays, networked spaces, and multi-media environments. — _[Joana Chicau, Choreo-graphic-hypothesis publication]_(https://monoskop.org/images/7/70/Choreo-graphic-hypothesis-web-joana-chicau.pdf)
+> As in choreography, computer programming deals with space, time and movement constructs. It has been defining ways of moving collectively or individually, through fluid nonetheless complex landscapes of information displays, networked spaces, and multi-media environments. — [Joana Chicau, Choreo-graphic-hypothesis publication](https://monoskop.org/images/7/70/Choreo-graphic-hypothesis-web-joana-chicau.pdf)
 
 
-On the "writing of movement(s)":
+__On the "writing of movement(s)":__
 
 * [Post Modern Scores & Programming Scripts](http://pzwart1.wdka.hro.nl/~jo/notebook/series/glossary.html)
-
 * [Eshkol-Wachman Movement Notation & Cybernetics](https://joanachicau.x-temporary.org/)
-
 * [Choreographic-Coding Resources](https://github.com/JoBCB/Rehearsal_Series/wiki/References-on-Choreographic-Coding)
+
+__More tools and resources":__
 
 * [Open-Technologies-and-Design](https://github.com/JoBCB/Rehearsal_Series/wiki/Resources-and-Theory-on-Open-Technology-and-Design)
 
@@ -47,9 +45,9 @@ __Further References__
 
 “Through poststructural and postmodern thought, then, the archival body is no longer ‘an ideal configuration.’ It is not stable nor can it perform stability when it holds fractured and fracturing histories. Although fractured, the center does not necessarily cease to be a dominating force.” — _Braidotti, Metamorphoses_
 
-“To explore the nature of ‘thinking in action’ or thinking-feeling-knowing’ operative within artistic practice, especially produced within collaborative exchange..” — _[Emma Cocker, et al.](http:// www.choreo-graphic-figures.net/publications/book)_
+“To explore the nature of ‘thinking in action’ or thinking-feeling-knowing’ operative within artistic practice, especially produced within collaborative exchange..” — [Emma Cocker, et al.](http:// www.choreo-graphic-figures.net/publications/book)
 
-“... an approach to research-creation as a practice of interdisciplinary event design, or to quote the original application, as the practice of creating innovative ‘platforms for organizing and orienting live, collaborative encounters.’” — _[Erin Manning, et al.](http://senselab.ca/wp2/immediations/anarchiving/ anarchive-concise-definition)_
+“... an approach to research-creation as a practice of interdisciplinary event design, or to quote the original application, as the practice of creating innovative ‘platforms for organizing and orienting live, collaborative encounters.’” — [Erin Manning, et al.](http://senselab.ca/wp2/immediations/anarchiving/ anarchive-concise-definition)
 
 “Archivists who are able to embrace the metamorphoses of process—as opposed to adopting and adapting to the teleological and linear thrust toward static records as the sole outcome of archival productions—might then engage critically and creatively with the dynamic relationships among the archival functions and elements, creators, records, technologies, and structures. Critical engagements will not eliminate archival structures or standards, but might open the archival processes to dynamic methodologies in order to elicit ongoing thought and interrogation into everyday practices.” — _Jamie Ann Lee, A Queer/ed Archival Methodology: Archival Bodies as Nomadic Subjects_
 
