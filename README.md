@@ -64,7 +64,7 @@ __Further Resources:__
 * [on-Open-Technologies-and-Design](https://github.com/JoBCB/Rehearsal_Series/wiki/Resources-and-Theory-on-Open-Technology-and-Design)
 
 
-### Further References
+__Further References:__
 
 “What strategies might archivists consider to expand contextual knowledge about historical matters that might constrain records and bodies of knowledge over time? (...) Projecting the ideas of the fractured subject into the archive, Jacques Derrida wrestles with the changing nature of the archive by looking at what constitutes the driving principle of gathering together: "Consignation (in the archive) aims to coordinate a single corpus, in a system or a synchrony in which all the elements articulate the unity of an ideal configuration. In an archive, there should not be any absolute dissociations, any heterogeneity or secret, which could separate, or partition, in an absolute manner." _Jacques Derrida, Archive Fever: A Freudian Impression (Chicago: University of Chicago Press, 1995)_
 
