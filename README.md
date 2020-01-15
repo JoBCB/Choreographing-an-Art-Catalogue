@@ -12,8 +12,6 @@ The participants are invited to bring their own laptops, and engage with hybrid 
 
 -----------------
 
-Whats is choreography?
-
 ### = "writing movement"  
 
 _choreography in Greek is spelled χορογραφια from χορός (dance) + γραφια (writing)_
