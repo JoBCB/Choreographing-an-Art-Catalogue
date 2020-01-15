@@ -18,6 +18,7 @@ _choreography in Greek is spelled χορογραφια from χορός (dance) +
 
 * [Post Modern Scores & Programming Scripts](http://pzwart1.wdka.hro.nl/~jo/notebook/series/glossary.html)
 * [Eshkol-Wachman Movement Notation & Cybernetics](https://joanachicau.x-temporary.org/)
+* [Six Viewpoints](https://en.wikipedia.org/wiki/Viewpoints)
 * [Choreographic-Coding Resources](https://github.com/JoBCB/Rehearsal_Series/wiki/References-on-Choreographic-Coding)
 
 > Choreographies are socio-cultural constructions, critics to current systems, political positions or dispositions, alternatives to move or counter-move. Each epoch, each place, each culture, each instance of choreography resists and reform previous conceptions of its definition.
