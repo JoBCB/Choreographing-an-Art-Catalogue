@@ -18,7 +18,6 @@ _choreography in Greek is spelled χορογραφια from χορός (dance) +
 
 * [Post Modern Scores & Programming Scripts](http://pzwart1.wdka.hro.nl/~jo/notebook/series/glossary.html)
 * [Eshkol-Wachman Movement Notation & Cybernetics](https://joanachicau.x-temporary.org/)
-* [Six Viewpoints](https://en.wikipedia.org/wiki/Viewpoints)
 * [Choreographic-Coding Resources](https://github.com/JoBCB/Rehearsal_Series/wiki/References-on-Choreographic-Coding)
 
 > Choreographies are socio-cultural constructions, critics to current systems, political positions or dispositions, alternatives to move or counter-move. Each epoch, each place, each culture, each instance of choreography resists and reform previous conceptions of its definition.
@@ -48,10 +47,21 @@ __[16h30-17h30] prototyping:__
   - create a catalogue: 
 	- what are the spatio-temporal conditions? Which location or environment and time lengths?
 	- define a set of operations to be performed / qualitative-processual dynamics of howness:
-		- different rhythms (tempo; de/acceleration..); repetition; simultanity; relationality; unpredictability…;
-		- how do you navigate around it? by order of..; (non)linearity; random sequence; zooming in diverse scales; from different angles..;
+		- different rhythms
+			- tempo: smooth/flowing versus very slowly or fast;
+			- repetition; 
+			- simultanity or different forms of temporal relationality…
+		- different spatial relationship 
+			- distances between objects; 
+			- one body or element in relation to another, to a group, or to the architecture;
+			- topography: the movement over a landscape, pattern, design..
+		- how do you navigate around it? 
+			- by order of..; 
+			- (non)linearity; random sequence; 
+			- zooming in diverse scales; from different angles..;
+		
 	- you can enact the catalogue through actual physical movement; and or experiment by using digital tools and computer code.
-	- set variations: you can define variations within your catalogue system;
+	- set variations: you can define variations within your catalogue system; including permanent and non-permanent features.
           
 __[17h30-18h] group presentations and discussion__ 
 
