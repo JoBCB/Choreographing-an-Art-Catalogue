@@ -55,7 +55,7 @@ __[16h30-17h30] prototyping:__
 			- distances between objects; 
 			- one body or element in relation to another, to a group, or to the architecture;
 			- topography: the movement over a landscape, pattern, symmetry versus asymmetry,..
-		- how do you navigate around it? 
+		- how do you navigate around it? what gestures are required to encounter the catalogue material?
 			- by order of..; 
 			- (non)linearity; random sequence; 
 			- zooming in diverse scales; from different angles and perspective, juxtaposition..;
