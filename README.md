@@ -54,11 +54,11 @@ __[16h30-17h30] prototyping:__
 		- different spatial relationship 
 			- distances between objects; 
 			- one body or element in relation to another, to a group, or to the architecture;
-			- topography: the movement over a landscape, pattern, design..
+			- topography: the movement over a landscape, pattern, symmetry versus asymmetry,..
 		- how do you navigate around it? 
 			- by order of..; 
 			- (non)linearity; random sequence; 
-			- zooming in diverse scales; from different angles..;
+			- zooming in diverse scales; from different angles and perspective, juxtaposition..;
 		
 	- you can enact the catalogue through actual physical movement; and or experiment by using digital tools and computer code.
 	- set variations: you can define variations within your catalogue system; including permanent and non-permanent features.
