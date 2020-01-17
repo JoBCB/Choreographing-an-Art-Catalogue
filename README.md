@@ -61,11 +61,11 @@ Ref 03: Wikipedia, Stage Layout Plan.
 
 Ref 04: Joanna Haigood and Wayne Campbell, Ghost Architecture, 2004. An aerial dance installation centering on the architectural and social history of the site. Yerba Buena Center for the Arts, San Francisco.
 
-<img src="https://www.moma.org/wp/inside_out/wp-content/uploads/2016/01/Platforms_HORIZONTAL-PIC.jpg" width="360"> <img src="https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F7362c282-bce2-11e9-8b63-a58ca55a4a3b.jpg?crop=3987%2C2243%2C52%2C475&resize=2400" width="420">
+<img src="https://www.moma.org/wp/inside_out/wp-content/uploads/2016/01/Platforms_HORIZONTAL-PIC.jpg" width="360"> <img src="https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F7362c282-bce2-11e9-8b63-a58ca55a4a3b.jpg?crop=3987%2C2243%2C52%2C475&resize=2400" width="400">
 
 Ref 05: Simone Forti, Platforms (1961). Performed at Danza Volo Musica Dinamite Festival, L’Attico, Rome, 1969. 
 
-Ref 06:  Trisha Brown, In Plain Site reconceives some of the US choreographer’s most striking short dance pieces in dynamic relationships with the enchanting landscape of Jupiter Artland sculpture park.
+Ref 06: Trisha Brown, In Plain Site reconceives some of the US choreographer’s most striking short dance pieces in dynamic relationships with the enchanting landscape of Jupiter Artland sculpture park.
 
 Define your stage environment by choosing a choreographic viewpoint; describe in one sentence or make a list of key points (see examples below);
 		- different rhythms
@@ -91,6 +91,11 @@ Set variations: you can define variations within your catalogue system; includin
 __[17h30-18h] group presentations and discussion__ 
 
   - critical reflections on the methodology, use of tools and collaborate work; 
+   
+
+<img src="http://intermsofperformance.site/thumbs/dove_site_mueller-3654c88d7eb467ddfc5e58e99ea8e861.jpg" width="600">
+
+Ref 07: Ivana Müller, Thinking of each other like good friends would, 2008. Dance Theater Workshop, New York. Commissioned for the “Crossing the Line” festival. © Ivana Müller.
 
 -----------------
 
