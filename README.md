@@ -44,6 +44,7 @@ __[15h45-16h30] in groups:__
 
 
 __[16h30-17h30] prototyping:__
+
   - create a catalogue: 
 
 The catalogue as a [stage](https://en.wikipedia.org/wiki/Stage_(theatre)): what are the spatio-temporal conditions?
@@ -84,12 +85,13 @@ Define your stage environment by choosing a choreographic viewpoint; describe in
 			
 You can enact the catalogue through actual physical movement; and or experiment by using digital tools and computer code.
 
-Set variations: you can define variations within your catalogue system; including permanent and non-permanent features. 	
+  - Set variations: you can define variations within your catalogue system; including permanent and non-permanent features. 	
 
 
 __Going beyond the [fourth wall](https://en.wikipedia.org/wiki/Fourth_wall)__
 
-	- reflection points:
+_reflection points:_
+
 		- on how do your decisions affect the viewer, audience, the spectator or the user? The listener or listenership, the  readers or readership?
 		- how does one experience the catalogue through sense making? 
 		- reflect on accessibility, diversity and inclusion;
