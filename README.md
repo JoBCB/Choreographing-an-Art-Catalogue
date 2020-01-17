@@ -55,13 +55,13 @@ Ref 01: Wikipedia, Artist rendering of the Theatre of Dionysus.
 
 Ref 02: The term chorostasi denotes "threshing floor", i.e., the place where the threshing of wheat was done, and after the end of harvesting it was clean and empty and hence a natural place for celebration. [source](https://en.wikipedia.org/wiki/Choros_(dance))
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Stage_Layout_Plan.jpg" width="350">  <img src="http://intermsofperformance.site/thumbs/haigood_site_haigood-fa53a9d84c87131e045b06efeebd232f.jpg" width="350">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Stage_Layout_Plan.jpg" width="380">  <img src="http://intermsofperformance.site/thumbs/haigood_site_haigood-fa53a9d84c87131e045b06efeebd232f.jpg" width="350">
 
 Ref 03: Wikipedia, Stage Layout Plan.
 
 Ref 04: Joanna Haigood and Wayne Campbell, Ghost Architecture, 2004. An aerial dance installation centering on the architectural and social history of the site. Yerba Buena Center for the Arts, San Francisco.
 
-<img src="https://www.moma.org/wp/inside_out/wp-content/uploads/2016/01/Platforms_HORIZONTAL-PIC.jpg" width="350"> <img src="https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F7362c282-bce2-11e9-8b63-a58ca55a4a3b.jpg?crop=3987%2C2243%2C52%2C475&resize=2400" width="350">
+<img src="https://www.moma.org/wp/inside_out/wp-content/uploads/2016/01/Platforms_HORIZONTAL-PIC.jpg" width="350"> <img src="https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F7362c282-bce2-11e9-8b63-a58ca55a4a3b.jpg?crop=3987%2C2243%2C52%2C475&resize=2400" width="380">
 
 Ref 05: Simone Forti, Platforms (1961). Performed at Danza Volo Musica Dinamite Festival, L’Attico, Rome, 1969. 
 
