@@ -89,10 +89,10 @@ You can enact the catalogue through actual physical movement; and or experiment 
 
 
 __Going beyond the [fourth wall](https://en.wikipedia.org/wiki/Fourth_wall)__
-
 _reflection points:_
 
-		- on how do your decisions affect the viewer, audience, the spectator or the user? The listener or listenership, the  readers or readership?
+		- on how do your decisions affect the viewer, audience, the spectator or the user? 
+		- and activate the roles of the listener or listenership, the readers or readership, the speaker..?
 		- how does one experience the catalogue through sense making? 
 		- reflect on accessibility, diversity and inclusion;
 		- the stage as an interface towards knowledge. 
