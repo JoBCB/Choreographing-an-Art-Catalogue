@@ -124,9 +124,9 @@ __Further References:__
 
 “Through poststructural and postmodern thought, then, the archival body is no longer ‘an ideal configuration.’ It is not stable nor can it perform stability when it holds fractured and fracturing histories. Although fractured, the center does not necessarily cease to be a dominating force.” — _Braidotti, Metamorphoses_
 
-“To explore the nature of ‘thinking in action’ or thinking-feeling-knowing’ operative within artistic practice, especially produced within collaborative exchange..” — [Emma Cocker, et al.](http:// www.choreo-graphic-figures.net/publications/book)
+“To explore the nature of ‘thinking in action’ or thinking-feeling-knowing’ operative within artistic practice, especially produced within collaborative exchange..” — [Emma Cocker, et al.](http://www.choreo-graphic-figures.net/publications/book)
 
-“... an approach to research-creation as a practice of interdisciplinary event design, or to quote the original application, as the practice of creating innovative ‘platforms for organizing and orienting live, collaborative encounters.’” — [Erin Manning, et al.](http://senselab.ca/wp2/immediations/anarchiving/ anarchive-concise-definition)
+“... an approach to research-creation as a practice of interdisciplinary event design, or to quote the original application, as the practice of creating innovative ‘platforms for organizing and orienting live, collaborative encounters.’” — [Erin Manning, et al.](http://senselab.ca/wp2/immediations/anarchiving/anarchive-concise-definition)
 
 “Archivists who are able to embrace the metamorphoses of process—as opposed to adopting and adapting to the teleological and linear thrust toward static records as the sole outcome of archival productions—might then engage critically and creatively with the dynamic relationships among the archival functions and elements, creators, records, technologies, and structures. Critical engagements will not eliminate archival structures or standards, but might open the archival processes to dynamic methodologies in order to elicit ongoing thought and interrogation into everyday practices.” — _Jamie Ann Lee, A Queer/ed Archival Methodology: Archival Bodies as Nomadic Subjects_
 
