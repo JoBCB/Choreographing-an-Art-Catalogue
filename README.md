@@ -47,23 +47,23 @@ __[16h30-17h30] prototyping:__
 
 The catalogue as a [stage](https://en.wikipedia.org/wiki/Stage_(theatre)): what are the spatio-temporal conditions?
 	
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Stage_Layout_Plan.jpg" width="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/DionysiusTheater.jpg" width="600">
 
-<img src="http://intermsofperformance.site/thumbs/haigood_site_haigood-fa53a9d84c87131e045b06efeebd232f.jpg" width="600">
+Ref 02: Artist rendering of the Theatre of Dionysus
 
-Ref: Joanna Haigood and Wayne Campbell, Ghost Architecture, 2004. An aerial dance installation centering on the architectural and social history of the site. Yerba Buena Center for the Arts, San Francisco.
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Stage_Layout_Plan.jpg" width="450">  <img src="http://intermsofperformance.site/thumbs/haigood_site_haigood-fa53a9d84c87131e045b06efeebd232f.jpg" width="450">
 
-<img src="https://www.moma.org/wp/inside_out/wp-content/uploads/2016/01/Platforms_HORIZONTAL-PIC.jpg" width="600">
+Ref 02: Wikipedia Stage Layout Plan
 
-Ref: Platforms (1961), Simone Forti. Performed at Danza Volo Musica Dinamite Festival, L’Attico, Rome, 1969. 
+Ref 03: Joanna Haigood and Wayne Campbell, Ghost Architecture, 2004. An aerial dance installation centering on the architectural and social history of the site. Yerba Buena Center for the Arts, San Francisco.
 
-<img src="https://3.bp.blogspot.com/-WLxlvxXeZzQ/UnTqxTQeozI/AAAAAAAABfQ/ol2RkM-rvTs/s640/Trisha+Brown+Man+Walking+Down+the+Side+of+a+Building+(1970).jpg" width="300">
+<img src="https://www.moma.org/wp/inside_out/wp-content/uploads/2016/01/Platforms_HORIZONTAL-PIC.jpg" width="450">
 
-Ref: Man Walking Down the Side of a Building, Trisha Brown  (1970)
+<img src="https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F7362c282-bce2-11e9-8b63-a58ca55a4a3b.jpg?crop=3987%2C2243%2C52%2C475&resize=2400" width="450">
 
-<img src="https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F7362c282-bce2-11e9-8b63-a58ca55a4a3b.jpg?crop=3987%2C2243%2C52%2C475&resize=2400" width="300">
+Ref 04: Platforms (1961), Simone Forti. Performed at Danza Volo Musica Dinamite Festival, L’Attico, Rome, 1969. 
 
-Ref:  Trisha Brown: In Plain Site reconceives some of the US choreographer’s most striking short dance pieces in dynamic relationships with the enchanting landscape of Jupiter Artland sculpture park.
+Ref 05:  Trisha Brown: In Plain Site reconceives some of the US choreographer’s most striking short dance pieces in dynamic relationships with the enchanting landscape of Jupiter Artland sculpture park.
 
 Define your stage environment by choosing a choreographic viewpoint; describe in one sentence or make a list of key points (see examples below);
 		- different rhythms
@@ -79,9 +79,11 @@ Define your stage environment by choosing a choreographic viewpoint; describe in
 			- by order of..; 
 			- (non)linearity; random sequence; 
 			- zooming in diverse scales; from different angles and perspective, juxtaposition..;
+You can enact the catalogue through actual physical movement; and or experiment by using digital tools and computer code.
+	- reflect on how your de decisions affect the viewer, audience, the spectator or the user? The listener or listenership, the  readers or readership?
+	- reflect on modes of experiencing the catalogue and accessibility. 
 		
-	- you can enact the catalogue through actual physical movement; and or experiment by using digital tools and computer code.
-	- set variations: you can define variations within your catalogue system; including permanent and non-permanent features. 	
+Set variations: you can define variations within your catalogue system; including permanent and non-permanent features. 	
 	
           
 __[17h30-18h] group presentations and discussion__ 
