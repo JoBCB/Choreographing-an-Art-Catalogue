@@ -19,6 +19,7 @@ _choreography in Greek is spelled χορογραφια from χορός (dance) +
 * [Post Modern Scores & Programming Scripts](http://pzwart1.wdka.hro.nl/~jo/notebook/series/glossary.html)
 * [Eshkol-Wachman Movement Notation & Cybernetics](https://joanachicau.x-temporary.org/)
 * [Choreographic-Coding Resources](https://github.com/JoBCB/Rehearsal_Series/wiki/References-on-Choreographic-Coding)
+* [Video Examples](https://www.youtube.com/playlist?list=PLkRYCVc1KXTXUQ01d45TrHs8R5WfEdC-_) and analysis of movement scores & programming scripts = ‘writing spaces’;
 
 > Choreographies are socio-cultural constructions, critics to current systems, political positions or dispositions, alternatives to move or counter-move. Each epoch, each place, each culture, each instance of choreography resists and reform previous conceptions of its definition.
 
@@ -29,9 +30,8 @@ __On method__ = Drawing on practices of notation (making of scores and scripts) 
 
 
 __[14h-14h45] round of introductions;__
-  - presentation of research; methodology; choreography and body themes;
-  - examples and analysis of movement scores & programming scripts = ‘writing spaces’;
-  - genealogy of the workshop and context;
+  - what is choreography? presentation of research and methodology;
+  - genealogy of the workshop and context: on open knowledge;
 
 __[14h45-15h15] embodiment exercises;__
 
@@ -39,7 +39,8 @@ __[] short break;__
 
 __[15h45-16h30] in groups:__
   - reflect on the embodiment experience and choreographic concepts previously experienced;
-  - visit the exhibition and collect images / metadata..; what does your catalogue material consist of? note it down.
+  - visit the exhibition and collect images / writings / metadata..; 
+  - make notes: what does your catalogue material consist of?
 
 
 __[16h30-17h30] prototyping:__
@@ -47,7 +48,7 @@ __[16h30-17h30] prototyping:__
 
 The catalogue as a [stage](https://en.wikipedia.org/wiki/Stage_(theatre)): what are the spatio-temporal conditions?
 
-> Choros {greek theatre}: the symbolisation of movement through a combination of word, music, gesture and rhythm; the place interwoven with the arena of the stage and its scene. For the choros requires participation, the relationship with the other and the others, be it objects, chance events, or spatio-temporal conditions, or be it the participants, the onlookers, witnesses and followers together originate the ‘ecology’ of an event in the first place. at 'Choreographic Figures', Dieter Mersch: Figuration/ Defiguration for a dialectic of choreo-graphy. 
+> Choros {khorós means "dance" in the Greek language}: the symbolisation of movement through a combination of word, music, gesture and rhythm; the place interwoven with the arena of the stage and its scene. For the choros requires participation, the relationship with the other and the others, be it objects, chance events, or spatio-temporal conditions, or be it the participants, the onlookers, witnesses and followers together originate the ‘ecology’ of an event in the first place. at 'Choreographic Figures', Dieter Mersch: Figuration/ Defiguration for a dialectic of choreo-graphy. 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/DionysiusTheater.jpg" width="420"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Threshing_place%2C_Santorini%2C_Greece.jpg" width="420">
 
@@ -66,25 +67,37 @@ Ref 04: Simone Forti, Platforms (1961). Performed at Danza Volo Musica Dinamite 
 Ref 05: Trisha Brown, In Plain Site reconceives some of the US choreographer’s most striking short dance pieces in dynamic relationships with the enchanting landscape of Jupiter Artland sculpture park.
 
 Define your stage environment by choosing a choreographic viewpoint; describe in one sentence or make a list of key points (see examples below);
-		- different rhythms
+
+	- different rhythms:
 			- time lengths;
 			- tempo: smooth/flowing versus very slowly or fast;
 			- repetition; 
 			- simultanity or different forms of temporal relationality…
-		- different spatial relationship 
+	- different spatial relationship: 
 			- distances between objects; 
 			- one body or element in relation to another, to a group, or to the architecture;
 			- topography: the movement over a landscape, pattern, symmetry versus asymmetry,..
-		- how do you navigate around it? what gestures are required to encounter the catalogue material?
+	- how do you navigate around it? what gestures are required to encounter the catalogue material?
 			- by order of..; 
 			- (non)linearity; random sequence; 
 			- zooming in diverse scales; from different angles and perspective, juxtaposition..;
+			
 You can enact the catalogue through actual physical movement; and or experiment by using digital tools and computer code.
-	- reflect on how your de decisions affect the viewer, audience, the spectator or the user? The listener or listenership, the  readers or readership?
-	- reflect on modes of experiencing the catalogue and accessibility. 
-		
+
 Set variations: you can define variations within your catalogue system; including permanent and non-permanent features. 	
-	
+
+
+_The [fourth wall](https://en.wikipedia.org/wiki/Fourth_wall)_
+
+	- reflection points:
+		- on how do your decisions affect the viewer, audience, the spectator or the user? The listener or listenership, the  readers or readership?
+		- how does one experience the catalogue through sense making? 
+		- reflect on accessibility, diversity and inclusion;
+		- the stage as an interface towards knowledge. 
+			- language as interface; 
+			- body as interface; 
+			- interface between the technical and the cultural;
+			
           
 __[17h30-18h] group presentations and discussion__ 
 
