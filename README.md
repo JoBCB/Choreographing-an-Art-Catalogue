@@ -46,24 +46,30 @@ __[16h30-17h30] prototyping:__
   - create a catalogue: 
 
 The catalogue as a [stage](https://en.wikipedia.org/wiki/Stage_(theatre)): what are the spatio-temporal conditions?
-	
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/DionysiusTheater.jpg" width="600">
 
-Ref 02: Artist rendering of the Theatre of Dionysus
+> Choros {greek theatre}: the symbolisation of movement through a combination of word, music, gesture and rhythm; the place interwoven with the arena of the stage and its scene. For the choros requires participation, the relationship with the other and the others, be it objects, chance events, or spatio-temporal conditions, or be it the participants, the onlookers, witnesses and followers together originate the ‘ecology’ of an event in the first place. at 'Choreographic Figures', Dieter Mersch: Figuration/ Defiguration for a dialectic of choreo-graphy. 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Stage_Layout_Plan.jpg" width="450">  <img src="http://intermsofperformance.site/thumbs/haigood_site_haigood-fa53a9d84c87131e045b06efeebd232f.jpg" width="450">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/DionysiusTheater.jpg" width="350">
 
-Ref 02: Wikipedia Stage Layout Plan
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Threshing_place%2C_Santorini%2C_Greece.jpg" width="350">
 
-Ref 03: Joanna Haigood and Wayne Campbell, Ghost Architecture, 2004. An aerial dance installation centering on the architectural and social history of the site. Yerba Buena Center for the Arts, San Francisco.
+Ref 01: Wikipedia, Artist rendering of the Theatre of Dionysus.
 
-<img src="https://www.moma.org/wp/inside_out/wp-content/uploads/2016/01/Platforms_HORIZONTAL-PIC.jpg" width="450">
+Ref 02: The term chorostasi denotes "threshing floor", i.e., the place where the threshing of wheat was done, and after the end of harvesting it was clean and empty and hence a natural place for celebration. [source](https://en.wikipedia.org/wiki/Choros_(dance))
 
-<img src="https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F7362c282-bce2-11e9-8b63-a58ca55a4a3b.jpg?crop=3987%2C2243%2C52%2C475&resize=2400" width="450">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Stage_Layout_Plan.jpg" width="350">  <img src="http://intermsofperformance.site/thumbs/haigood_site_haigood-fa53a9d84c87131e045b06efeebd232f.jpg" width="350">
 
-Ref 04: Platforms (1961), Simone Forti. Performed at Danza Volo Musica Dinamite Festival, L’Attico, Rome, 1969. 
+Ref 03: Wikipedia, Stage Layout Plan.
 
-Ref 05:  Trisha Brown: In Plain Site reconceives some of the US choreographer’s most striking short dance pieces in dynamic relationships with the enchanting landscape of Jupiter Artland sculpture park.
+Ref 04: Joanna Haigood and Wayne Campbell, Ghost Architecture, 2004. An aerial dance installation centering on the architectural and social history of the site. Yerba Buena Center for the Arts, San Francisco.
+
+<img src="https://www.moma.org/wp/inside_out/wp-content/uploads/2016/01/Platforms_HORIZONTAL-PIC.jpg" width="350">
+
+<img src="https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F7362c282-bce2-11e9-8b63-a58ca55a4a3b.jpg?crop=3987%2C2243%2C52%2C475&resize=2400" width="350">
+
+Ref 05: Simone Forti, Platforms (1961). Performed at Danza Volo Musica Dinamite Festival, L’Attico, Rome, 1969. 
+
+Ref 06:  Trisha Brown, In Plain Site reconceives some of the US choreographer’s most striking short dance pieces in dynamic relationships with the enchanting landscape of Jupiter Artland sculpture park.
 
 Define your stage environment by choosing a choreographic viewpoint; describe in one sentence or make a list of key points (see examples below);
 		- different rhythms
