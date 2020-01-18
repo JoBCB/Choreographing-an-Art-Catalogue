@@ -67,7 +67,7 @@ Ref 04: Simone Forti, Platforms (1961). Performed at Danza Volo Musica Dinamite 
 
 Ref 05: Trisha Brown, In Plain Site reconceives some of the US choreographer’s most striking short dance pieces in dynamic relationships with the enchanting landscape of Jupiter Artland sculpture park.
 
-Define your stage environment by choosing a choreographic viewpoint; describe in one sentence or make a list of key points (see examples below);
+  - Define your stage environment by choosing a choreographic viewpoint; describe in one sentence or make a list of key points (see examples below);
 
 	- different rhythms:
 			- time lengths;
@@ -83,7 +83,7 @@ Define your stage environment by choosing a choreographic viewpoint; describe in
 			- (non)linearity; random sequence; 
 			- zooming in diverse scales; from different angles and perspective, juxtaposition..;
 			
-You can enact the catalogue through actual physical movement; and or experiment by using digital tools and computer code.
+  - You can enact the catalogue through actual physical movement; and or experiment by using digital tools and computer code. Choose a form of written notation that better helps representing your catalogue system.
 
   - Set variations: you can define variations within your catalogue system; including permanent and non-permanent features. 	
 
