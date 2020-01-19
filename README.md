@@ -29,21 +29,21 @@ _choreography in Greek is spelled χορογραφια from χορός (dance) +
 __On method__ = Drawing on practices of notation (making of scores and scripts) interweaved with somatic practices (embodiment and sensory perception) — which will inform archiving practices (gestures of searching, collecting; structuring, publishing and archiving content);
 
 
-__[14h-14h45] round of introductions;__
+__[] round of introductions;__
   - what is choreography? presentation of research and methodology;
   - genealogy of the workshop and context: on open knowledge;
 
-__[14h45-15h15] embodiment exercises;__
+__[] embodiment exercises;__
 
 __[] short break;__
 
-__[15h45-16h30] in groups:__
+__[] in groups:__
   - reflect on the embodiment experience and choreographic concepts previously experienced;
   - visit the exhibition and collect images / writings / metadata..; 
   - make notes: what does your catalogue material consist of?
 
 
-__[16h30-17h30] prototyping:__
+__[] prototyping:__
 
   - create a catalogue: 
 
@@ -67,7 +67,14 @@ Ref 04: Simone Forti, Platforms (1961). Performed at Danza Volo Musica Dinamite 
 
 Ref 05: Trisha Brown, In Plain Site reconceives some of the US choreographer’s most striking short dance pieces in dynamic relationships with the enchanting landscape of Jupiter Artland sculpture park.
 
-  - Define your stage environment by choosing a choreographic viewpoint; describe in one sentence or make a list of key points (see examples below);
+  - Define your stage environment: choose a form of written notation that better helps representing your catalogue system. Reflect how your stage is setting conditions:
+  
+	- on how do your decisions affect the viewer, audience, the spectator or the user? 
+	- activating the roles of the listener or listenership, the readers or readership, the speaker..?
+	- on how one experience the catalogue through sense making? 
+	- reflect on accessibility, diversity and inclusion;
+  
+  - You can enhance the latter by choosing a choreographic viewpoint; see examples below:
 
 	- different rhythms:
 			- time lengths;
@@ -83,28 +90,23 @@ Ref 05: Trisha Brown, In Plain Site reconceives some of the US choreographer’s
 			- (non)linearity; random sequence; 
 			- zooming in diverse scales; from different angles and perspective, juxtaposition..;
 			
-  - You can enact the catalogue through actual physical movement; and or experiment by using digital tools and computer code. Choose a form of written notation that better helps representing your catalogue system.
+  - Sketch you catalogue by using a combination of analogue — digital tools; and computer code. 
+ 			- set variations: you can define variations within your catalogue system; including permanent and non-permanent features.
+			
+  - Enact the catalogue through the exhibition space: give a tour to other groups;
+  
+          
+__[] group presentations and discussion__ 
 
-  - Set variations: you can define variations within your catalogue system; including permanent and non-permanent features. 	
-
-
-__Going beyond the [fourth wall](https://en.wikipedia.org/wiki/Fourth_wall)__
+  - critical reflections on the methodology, use of tools and collaborate work; 
+  
+__Beyond the [fourth wall](https://en.wikipedia.org/wiki/Fourth_wall)__
 _reflection points:_
 
-	- on how do your decisions affect the viewer, audience, the spectator or the user? 
-	- and activate the roles of the listener or listenership, the readers or readership, the speaker..?
-	- how does one experience the catalogue through sense making? 
-	- reflect on accessibility, diversity and inclusion;
 	- the stage as an interface towards knowledge. 
 		- language as interface; 
 		- body as interface; 
 		- interface between the technical and the cultural;
-			
-          
-__[17h30-18h] group presentations and discussion__ 
-
-  - critical reflections on the methodology, use of tools and collaborate work; 
-   
 
 <img src="http://intermsofperformance.site/thumbs/dove_site_mueller-3654c88d7eb467ddfc5e58e99ea8e861.jpg" width="600">
 
