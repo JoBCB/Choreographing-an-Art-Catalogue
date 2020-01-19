@@ -90,8 +90,7 @@ Ref 05: Trisha Brown, In Plain Site reconceives some of the US choreographer’s
 			- (non)linearity; random sequence; 
 			- zooming in diverse scales; from different angles and perspective, juxtaposition..;
 			
-  - Sketch you catalogue by using a combination of analogue — digital tools; and computer code.
-  			- set variations: you can define variations within your catalogue system; including permanent and non-permanent features.
+  - Sketch you catalogue by using a combination of analogue — digital tools; and computer code. Set variations: you can define variations within your catalogue system; including permanent and non-permanent features.
 			
   - Enact the catalogue through the exhibition space: give a tour to other groups;
   
