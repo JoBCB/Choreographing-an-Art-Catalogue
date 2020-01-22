@@ -135,6 +135,8 @@ __Further References:__
 
 "The body is an arrangement in spacetime, a patterning, a process; the mind is a process of the body, an organ, doing what organs do: organize. Order, pattern, connect... an immensely flexible technology, or life strategy, which if used with skill and resourcefulness presents each of us with that most fascinating of all serials, The Story of My Life." — _Ursula K. Le Guin, Dancing at the Edge of the World: Thoughts on Words, Women, Places_
 
+"In this archival sense, a corpus constitutes a “medium,” that is, a form of relational in-betweenness. It is a shared depository and interactive material. Thinking in this hybrid, material way, one can activate relations that are not reducible to a binary logic of opposition between humans and nonhumans and instead implement the flow of intersections, interactions, and transformations that produce the cultural design of the self. After all, thanks also to biotechnologies and techniques of replication, these distinctions are now definitively blurred. The human body itself has become an aggregate of different corpora and data, with mixed organic and inorganic elements. In the end, we are all replicants, equipped with digital memories." (Storage Space)[https://www.e-flux.com/architecture/superhumanity/68650/storage-space/]
+
 -----------------
 
 
